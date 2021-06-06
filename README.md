@@ -1,4 +1,4 @@
-# Banking Accordion Project
+# React Banking Accordion Project
 
 This idea was inspired by an FAQ by Simplii Financial
 url: https://www.simplii.com/en/faq.html#creditcard
