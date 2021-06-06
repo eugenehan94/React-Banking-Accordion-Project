@@ -1,3 +1,12 @@
+#Banking Accordion Project
+
+This idea was inspired by an FAQ by Simplii Financial
+url: https://www.simplii.com/en/faq.html#creditcard
+
+I created a mock REST API using JSON server and use a GET request to pull JSON data.
+
+------------------------------------------------------------------------------------------------------
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
