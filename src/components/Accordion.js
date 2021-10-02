@@ -1,6 +1,8 @@
 import React from "react";
 import { useState, useEffect } from "react";
-// import data from "./data";
+
+//Comment out when using JSON Server
+import questions from "./data";
 
 import "../css/Accordion.css";
 
@@ -9,13 +11,17 @@ const Accordion = () => {
   const [data, setData] = useState([]);
 
   useEffect(() => {
-    const fetchTasks = async () => {
-      const response = await fetch("http://localhost:5000/questions");
-      const data = await response.json();
-      console.log(data);
-      setData(data);
-    };
-    fetchTasks();
+    //Remove comment to use fetchTasks - to retrieve info from JSON Server
+    // const fetchTasks = async () => {
+    //   const response = await fetch("http://localhost:5000/questions");
+    //   const data = await response.json();
+    //   console.log(data);
+    //   setData(data);
+    // };
+    //Comment out fetchTask if you decide to use JSON Server
+    // fetchTasks();
+
+    setData(questions);
   }, []);
 
   const toggleAccordion = (id) => {
