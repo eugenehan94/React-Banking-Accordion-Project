@@ -5,6 +5,7 @@ url: https://www.simplii.com/en/faq.html#creditcard
 
 I created a mock REST API using JSON server and use a GET request to pull JSON data.
 
+Github link: https://eugenehan94.github.io/React-Banking-Accordion-Project/
 ------------------------------------------------------------------------------------------------------
 
 # Getting Started with Create React App
