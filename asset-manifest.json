@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/React-Banking-Accordion-Project/static/css/main.43ea8c84.chunk.css",
+    "main.js": "/React-Banking-Accordion-Project/static/js/main.288ad79c.chunk.js",
+    "main.js.map": "/React-Banking-Accordion-Project/static/js/main.288ad79c.chunk.js.map",
+    "runtime-main.js": "/React-Banking-Accordion-Project/static/js/runtime-main.29d4cc60.js",
+    "runtime-main.js.map": "/React-Banking-Accordion-Project/static/js/runtime-main.29d4cc60.js.map",
+    "static/js/2.cce46a03.chunk.js": "/React-Banking-Accordion-Project/static/js/2.cce46a03.chunk.js",
+    "static/js/2.cce46a03.chunk.js.map": "/React-Banking-Accordion-Project/static/js/2.cce46a03.chunk.js.map",
+    "index.html": "/React-Banking-Accordion-Project/index.html",
+    "static/css/main.43ea8c84.chunk.css.map": "/React-Banking-Accordion-Project/static/css/main.43ea8c84.chunk.css.map",
+    "static/js/2.cce46a03.chunk.js.LICENSE.txt": "/React-Banking-Accordion-Project/static/js/2.cce46a03.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.29d4cc60.js",
+    "static/js/2.cce46a03.chunk.js",
+    "static/css/main.43ea8c84.chunk.css",
+    "static/js/main.288ad79c.chunk.js"
+  ]
+}
